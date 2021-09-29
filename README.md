@@ -1,4 +1,4 @@
-# understanding_covid19_impact
+# Understanding Covid19 Impact
 
 Analysis has been done on the covid data which has been collected through scraping API's of this [covid website](https://www.covid19india.org/) which contains day-to-day information about number of **Confirmed**,**recovered**,**deceased** cases and all other sorts of Information related to the country India.
 
